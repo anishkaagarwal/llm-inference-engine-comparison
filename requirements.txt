@@ -1,0 +1,7 @@
+vllm
+torch
+torchaudio
+transformers
+huggingface_hub
+llama-cpp-python
+bitsandbytes
