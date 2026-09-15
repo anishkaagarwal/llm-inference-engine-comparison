@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model artifacts / caches (large, shouldn't be committed)
+*.gguf
+*.safetensors
+*.bin
+.cache/
+
+# OS
+.DS_Store
